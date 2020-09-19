@@ -1,6 +1,5 @@
 
 input_location = 'downloads/rosalind_dna.txt'
-output_location = 'ouputs/'
 
 file = open(input_location).readlines()
 string = file[0].strip()
